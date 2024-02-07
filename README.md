@@ -36,7 +36,7 @@ This application is designed to expedite the analysis of survey data collected b
 
 **Developed By:**
 
-This application was developed by me for Aangan. 👨‍💻
+This application was developed by me/Ankit for Aangan. 👨‍💻
 
 ---
 
