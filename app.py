@@ -4,7 +4,7 @@ import streamlit as st
 from utils import *
 import re
 
-st.title("Dashboard Automation : Aangan")
+st.title("Aangan DashEase")
 
 data = st.sidebar.file_uploader("Enter the CSV file", type="csv")
 user_input = st.text_area("Enter the list of columns (separated by comma or space) for analysis")
