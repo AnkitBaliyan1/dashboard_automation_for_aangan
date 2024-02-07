@@ -48,7 +48,7 @@ For inquiries or support, please contact 👉🏻 [Email](a.baliyan008@gmail.com
 
 **About Aangan:**
 
-Aangan is a non-profit organization dedicated to safeguarding vulnerable children and promoting child protection initiatives. Through various programs and advocacy efforts, Aangan strives to create a safer environment for children across communities. 🏠👦👧
+Aangan is a NGO dedicated to safeguarding vulnerable children and promoting child protection initiatives. Through various programs and advocacy efforts, Aangan strives to create a safer environment for children across communities. 🏠👦👧
 
 ---
 
